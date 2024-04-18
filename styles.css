@@ -1,0 +1,14 @@
+body{
+    background-color: #cccccb;
+}
+html{
+    border: 10px solid #2a3d88;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+footer{
+    text-align: center;
+}
